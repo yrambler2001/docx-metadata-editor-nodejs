@@ -1,0 +1,22 @@
+{
+  "name": "docx-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.19.7",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "pizzip": "^3.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-plugin-react": "^7.20.1"
+  }
+}
